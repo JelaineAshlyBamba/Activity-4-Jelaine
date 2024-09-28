@@ -1,0 +1,14 @@
+D:\Documents\Act 4\EqualOrNot\bin\Debug\net8.0\EqualOrNot.exe
+D:\Documents\Act 4\EqualOrNot\bin\Debug\net8.0\EqualOrNot.deps.json
+D:\Documents\Act 4\EqualOrNot\bin\Debug\net8.0\EqualOrNot.runtimeconfig.json
+D:\Documents\Act 4\EqualOrNot\bin\Debug\net8.0\EqualOrNot.dll
+D:\Documents\Act 4\EqualOrNot\bin\Debug\net8.0\EqualOrNot.pdb
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.AssemblyInfoInputs.cache
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.AssemblyInfo.cs
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.csproj.CoreCompileInputs.cache
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.dll
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\refint\EqualOrNot.dll
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.pdb
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\EqualOrNot.genruntimeconfig.cache
+D:\Documents\Act 4\EqualOrNot\obj\Debug\net8.0\ref\EqualOrNot.dll
